@@ -8,7 +8,7 @@
         <artifactId>oss-parent</artifactId>
         <version>7</version>
     </parent>
-
+<!--sommnet-->
   <groupId>org.selenide.examples</groupId>
   <artifactId>selenide-allure-junit</artifactId>
   <version>2.4</version>

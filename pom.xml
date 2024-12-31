@@ -89,7 +89,7 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
-
+<!--khch b -->
   <build>
     <defaultGoal>dependency:copy-dependencies</defaultGoal>
     <plugins>
